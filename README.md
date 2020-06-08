@@ -1,1 +1,0 @@
-World Populations SQL Practice 
